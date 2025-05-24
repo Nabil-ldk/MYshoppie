@@ -1,2 +1,2 @@
 # MYshoppie
-E-commerce website
+https://nabil-ldk.github.io/MYshoppie/
